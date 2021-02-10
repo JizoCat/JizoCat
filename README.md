@@ -1,4 +1,4 @@
-### hi
+# hi
 
 [osu! skins](https://github.com/JizoCat/osu-skin/wiki/Skins)
 
