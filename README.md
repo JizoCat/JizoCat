@@ -1,6 +1,8 @@
 ### hi
 
-[osu! skins]https://github.com/JizoCat/osu-skin/wiki/Skins
+[osu! skins](https://github.com/JizoCat/osu-skin/wiki/Skins)
+
+-heben
 
 <!--
 **JizoCat/Jizocat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
